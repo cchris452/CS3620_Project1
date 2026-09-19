@@ -1,0 +1,2 @@
+Character Name: chris, Character Type: knight, Inventory: ['sword', 'shield', 'gold and jewels']
+Character Name: harry, Character Type: wizard, Inventory: ['staff', 'spellbook']
